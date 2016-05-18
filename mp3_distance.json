@@ -1,0 +1,19 @@
+{
+"comment":"Bus number (/dev/i2c-*), you likely won't need to change this",
+"bus":1,
+"comment":"I2C address of Arduino which ultrasonic sensor is connected to",
+"arduino_address":"0x03",
+"comment":"Serial timeout",
+"serial_timeout":0.6,
+"comment":"Disables timeout in case the distance is not good and the music is not playing",
+"quick_scanning":true,
+"comment":"Name of the audio file which needs to be played",
+"filename":"audio.mp3",
+"comment":"Audio fade out time (remove to stop the audio suddenly)",
+"fadeout_time":8,
+"comment":"Range given in centimeters",
+"lower_range":10,
+"upper_range":70,
+"comment":"Number of iteration taken for filtering values (set to 1 to disable filtering)",
+"iter_count":10
+}
