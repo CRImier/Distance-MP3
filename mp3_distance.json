@@ -5,8 +5,6 @@
 "arduino_address":"0x03",
 "comment":"Serial timeout",
 "serial_timeout":0.6,
-"comment":"Disables timeout in case the distance is not good and the music is not playing",
-"quick_scanning":true,
 "comment":"Name of the audio file which needs to be played",
 "filename":"audio.mp3",
 "comment":"Audio fade out time (remove to stop the audio suddenly)",
