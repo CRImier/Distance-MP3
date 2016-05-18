@@ -1,15 +1,17 @@
 #!/usr/bin/env python
 import os 
 import json 
-import smbus
-
-import serial
-import termios
-
+import threading
+from datetime import datetime
+from copy import copy
 import subprocess
 import shlex
 import time
 
+import RPi.GPIO as GPIO
+import smbus
+import serial
+import termios
 from pygame import mixer
 
 """
@@ -97,6 +99,30 @@ class Player():
         print("Fading out and stopping music playback.")
         mixer.music.fadeout(fadeout_time)
 
+last_time_triggered = None
+
+def pir_scanning(pin_num):
+    global last_time_triggered
+    GPIO.setmode(GPIO.BCM)      
+    GPIO.setup(pin_num, GPIO.IN)
+    state = False
+    while True: 
+        current_state = GPIO.input(pin_num)
+        if state != current_state:
+            if current_state:
+                print('Sensor triggered at {}'.format(datetime.now()))
+                last_time_triggered = datetime.now()
+            state = current_state
+        time.sleep(0.5)
+
+def pir_sensor_active(max_diff_seconds):
+    if last_time_triggered is None:
+         return False
+    now = datetime.now()
+    ltt = copy(last_time_triggered)
+    delta = now - ltt #Possible time shift issues (think DST and such), just won't work
+    return delta.total_seconds() < max_diff_seconds 
+
 """
 def get_distance(bus, address):
     distance = bus.read_byte_data(address, 0x00)
@@ -150,6 +176,8 @@ def start():
     address = int(config["arduino_address"], 0) #Address can be stored as decimal, hexadecimal or even octal if you're perverted enough
     upper_range = config["upper_range"]
     lower_range = config["lower_range"]
+    pir_gpio = config["pir_gpio_pin"] if "pir_gpio_pin" in config else None
+    pir_interval = config["pir_max_interval"] if "pir_max_interval" in config else None
     iter_count = config["iter_count"] if "iter_count" in config else 1
     sleep_time = config["sleep_time"] if "sleep_time" in config else 10
     fadeout_time = config["fadeout_time"] if "fadeout_time" in config else None
@@ -159,6 +187,10 @@ def start():
     audio_path = None
     if iter_count > 1:
         print("Taking {} values and filtering".format(iter_count))
+    if pir_gpio:
+        t = threading.Thread(target=pir_scanning, args = [pir_gpio]) #Adding threads to such a simple program you need refactois a signring
+        t.daemon = True
+        t.start()
     while True:
         try:
             prev_path = audio_path
@@ -172,7 +204,7 @@ def start():
             sleep(sleep_time)
             audio_path = None
             continue
-        try:
+        try: #Data acquisition
             #distance = get_distance(bus, address) #I2C
             distances = []
             if iter_count > 1:
@@ -200,13 +232,17 @@ def start():
             else:
                 distance = get_distance(port)
             print("Distance: {}".format(distance))
-        except (IOError, termios.error):
+        #except (IOError, termios.error, OSError): #Uncomment for debugging
+        except:
             #print("Can't connect to device at address {}!".format(str(hex(address)))) #I2C
-            print("Can't connect to device!")
+            print("Can't connect to device or communication error occured!")
             time.sleep(1)
-        else:
+        else: #Decision making
             time_left_to_sleep = sleep_time-(iter_count*serial_timeout)
             if lower_range <= distance <= upper_range: #In range of the sensor, need to start playing
+                if pir_gpio and not distance_ok and not pir_sensor_active(pir_interval): #This check should only work when starting playback
+                    print("Ultrasonic sensor triggered but PIR sensor not active")
+                    continue
                 distance_ok = True
                 stop_triggered = False
                 player.play()

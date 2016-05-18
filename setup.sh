@@ -13,5 +13,5 @@ $SUDO cp mp3_distance.json $CONFIG_DIR
 $SUDO cp mp3_distance.service /etc/systemd/system/
 $SUDO systemctl daemon-reload
 $SUDO systemctl enable mp3_distance.service
-$SUDO systemctl start mp3_distance.service
+$SUDO systemctl restart mp3_distance.service
 

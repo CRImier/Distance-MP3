@@ -1,0 +1,860 @@
+Taking 10 values and filtering
+Path changed from None to /media/usb1/audio.mp3
+Distances: [197, 0, 168, 177, 93, 0, 123, 152]
+Average: 91
+Filtered out value: 197
+Filtered out value: 168
+Filtered out value: 177
+Filtered out value: 152
+Distance: 21
+Taking 10 values and filtering
+Path changed from None to /media/usb1/audio.mp3
+Distances: [0, 0, 0, 0, 0, 175, 175, 176, 176, 175]
+Average: 87
+Filtered out value: 175
+Filtered out value: 175
+Filtered out value: 176
+Filtered out value: 176
+Filtered out value: 175
+Distance: 0
+Distances: [0, 0, 177, 0, 0, 0, 0, 0, 0, 0]
+Average: 17
+Filtered out value: 177
+Distance: 0
+Sensor triggered at 2016-05-18 17:05:05.543830
+Distances: [0, 177, 177, 177, 0, 0, 0]
+Average: 53
+Filtered out value: 177
+Filtered out value: 177
+Filtered out value: 177
+Distance: 0
+Distances: [176, 126, 176, 103, 176, 90, 176, 176, 0, 0]
+Average: 119
+Distance: 119
+Distances: [0, 176, 176, 175, 178, 175, 176, 0, 0]
+Average: 105
+Filtered out value: 176
+Filtered out value: 176
+Filtered out value: 175
+Filtered out value: 178
+Filtered out value: 175
+Filtered out value: 176
+Distance: 0
+Distances: [0, 176, 175, 177, 177, 177, 176, 0, 0]
+Average: 105
+Filtered out value: 176
+Filtered out value: 175
+Filtered out value: 177
+Filtered out value: 177
+Filtered out value: 177
+Filtered out value: 176
+Distance: 0
+Distances: [0, 177, 177, 0, 0, 0, 106, 176, 178, 176]
+Average: 99
+Filtered out value: 177
+Filtered out value: 177
+Filtered out value: 176
+Filtered out value: 178
+Filtered out value: 176
+Distance: 10
+Ultrasonic sensor triggered but PIR sensor not active
+Sensor triggered at 2016-05-18 17:06:03.105729
+Distances: [177, 0, 0, 176, 0, 0, 0, 0]
+Average: 35
+Filtered out value: 177
+Filtered out value: 176
+Distance: 0
+Sensor triggered at 2016-05-18 17:06:11.114842
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 19]
+Average: 1
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [0, 0, 177, 177, 0, 0, 0, 175, 186, 177]
+Average: 89
+Filtered out value: 177
+Filtered out value: 177
+Filtered out value: 175
+Filtered out value: 186
+Filtered out value: 177
+Distance: 0
+Distances: [0, 175, 176, 176, 176, 176, 176, 176, 182, 176]
+Average: 158
+Distance: 158
+Distances: [0, 0, 175, 178, 0, 150, 0, 0, 0, 0]
+Average: 50
+Filtered out value: 175
+Filtered out value: 178
+Filtered out value: 150
+Distance: 0
+Distances: [177, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 17
+Filtered out value: 177
+Distance: 0
+Distances: [0, 0, 0, 176, 101, 0, 115, 177]
+Average: 56
+Filtered out value: 176
+Filtered out value: 101
+Filtered out value: 115
+Filtered out value: 177
+Distance: 0
+Distances: [176, 0, 104, 176, 176, 177, 176, 175, 176]
+Average: 133
+Distance: 133
+Distances: [176, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 17
+Filtered out value: 176
+Distance: 0
+Distances: [0, 0, 176, 176, 177, 176, 0, 0, 0, 0]
+Average: 70
+Filtered out value: 176
+Filtered out value: 176
+Filtered out value: 177
+Filtered out value: 176
+Distance: 0
+Distances: [0, 177, 177, 177, 0, 175, 177, 176, 175, 177]
+Average: 141
+Distance: 141
+Distances: [0, 176, 177, 0, 176, 178, 176, 175, 168, 0]
+Average: 122
+Distance: 122
+Distances: [0, 176, 177, 176, 176, 0, 0, 0, 0]
+Average: 70
+Filtered out value: 176
+Filtered out value: 177
+Filtered out value: 176
+Filtered out value: 176
+Distance: 0
+Distances: [0, 0, 176, 177, 0, 0, 0, 0, 0]
+Average: 35
+Filtered out value: 176
+Filtered out value: 177
+Distance: 0
+Sensor triggered at 2016-05-18 17:08:29.772888
+Sensor triggered at 2016-05-18 17:08:39.784124
+Distances: [177, 0, 177, 175, 176, 0, 98, 82]
+Average: 88
+Filtered out value: 177
+Filtered out value: 177
+Filtered out value: 175
+Filtered out value: 176
+Distance: 18
+Starting to play music...
+Can't connect to device!
+Distances: [175, 176, 177, 176, 177, 176, 0, 175]
+Average: 123
+Distance: 123
+Giving 10 seconds to come back...
+Sensor triggered at 2016-05-18 17:09:07.339486
+Distances: [176, 177, 106, 0, 141, 176, 132, 0, 176]
+Average: 108
+Filtered out value: 176
+Filtered out value: 177
+Filtered out value: 176
+Filtered out value: 176
+Distance: 37
+Distances: [109, 175, 138, 177, 176, 176, 0, 0, 0, 0]
+Average: 95
+Filtered out value: 175
+Filtered out value: 177
+Filtered out value: 176
+Filtered out value: 176
+Distance: 24
+Distances: [176, 0, 0, 178, 177, 0, 0, 0, 0, 0]
+Average: 53
+Filtered out value: 176
+Filtered out value: 178
+Filtered out value: 177
+Distance: 0
+Giving 10 seconds to come back...
+Distances: [178, 166, 177, 177, 177, 175, 177, 0, 176]
+Average: 140
+Distance: 140
+10 seconds passed!
+Fading out and stopping music playback.
+Sensor triggered at 2016-05-18 17:09:48.383552
+Distances: [0, 0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Can't connect to device!
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [177, 176, 0, 0, 0, 0, 0]
+Average: 35
+Filtered out value: 177
+Filtered out value: 176
+Distance: 0
+Distances: [176, 92, 175, 133, 0, 96, 176, 106, 0]
+Average: 95
+Filtered out value: 176
+Filtered out value: 175
+Filtered out value: 176
+Distance: 42
+Ultrasonic sensor triggered but PIR sensor not active
+Distances: [0, 0, 0, 0, 0, 0, 176, 177, 177]
+Average: 53
+Filtered out value: 176
+Filtered out value: 177
+Filtered out value: 177
+Distance: 0
+Distances: [176, 177, 0, 0, 0, 0, 0, 0]
+Average: 35
+Filtered out value: 176
+Filtered out value: 177
+Distance: 0
+Distances: [176, 0, 0, 0, 0, 0, 0, 175, 0]
+Average: 35
+Filtered out value: 176
+Filtered out value: 175
+Distance: 0
+Distances: [177, 0, 177, 176, 178, 176, 176, 176, 176, 0]
+Average: 141
+Distance: 141
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 176, 177]
+Average: 35
+Filtered out value: 176
+Filtered out value: 177
+Distance: 0
+Distances: [0, 0, 176, 176, 0, 0, 0, 0, 0, 0]
+Average: 35
+Filtered out value: 176
+Filtered out value: 176
+Distance: 0
+Distances: [0, 0, 176, 177, 0, 0, 0, 0, 0, 0]
+Average: 35
+Filtered out value: 176
+Filtered out value: 177
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [0, 0, 177, 177, 176, 178, 0, 0]
+Average: 70
+Filtered out value: 177
+Filtered out value: 177
+Filtered out value: 176
+Filtered out value: 178
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [0, 0, 0, 177, 177, 177, 176, 176]
+Average: 88
+Filtered out value: 177
+Filtered out value: 177
+Filtered out value: 177
+Filtered out value: 176
+Filtered out value: 176
+Distance: 0
+Distances: [0, 0, 0, 175, 177, 176, 178, 0]
+Average: 70
+Filtered out value: 175
+Filtered out value: 177
+Filtered out value: 176
+Filtered out value: 178
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [0, 0, 176, 0, 0, 0, 0, 175, 177, 176]
+Average: 70
+Filtered out value: 176
+Filtered out value: 175
+Filtered out value: 177
+Filtered out value: 176
+Distance: 0
+Can't connect to device!
+Distances: [0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [0, 177, 0, 0, 0, 177, 176, 0, 0, 0]
+Average: 53
+Filtered out value: 177
+Filtered out value: 177
+Filtered out value: 176
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 177, 178]
+Average: 35
+Filtered out value: 177
+Filtered out value: 178
+Distance: 0
+Distances: [0, 176, 0, 0, 175, 0, 0, 0, 0, 0]
+Average: 35
+Filtered out value: 176
+Filtered out value: 175
+Distance: 0
+Distances: [0, 176, 176, 177, 177, 176, 178, 177, 176]
+Average: 141
+Distance: 141
+Distances: [0, 0, 176, 176, 0, 0, 0, 0, 0]
+Average: 35
+Filtered out value: 176
+Filtered out value: 176
+Distance: 0
+Distances: [0, 0, 176, 0, 0, 0, 0, 0, 0, 0]
+Average: 17
+Filtered out value: 176
+Distance: 0
+Distances: [0, 176, 0, 176, 0, 0, 0, 0, 177, 177]
+Average: 70
+Filtered out value: 176
+Filtered out value: 176
+Filtered out value: 177
+Filtered out value: 177
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [176, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 17
+Filtered out value: 176
+Distance: 0
+Can't connect to device!
+Distances: [177, 0, 175, 0, 177, 177, 177, 177, 0, 0]
+Average: 106
+Filtered out value: 177
+Filtered out value: 175
+Filtered out value: 177
+Filtered out value: 177
+Filtered out value: 177
+Filtered out value: 177
+Distance: 0
+Distances: [177, 176, 176, 0, 0, 0, 0, 0, 0]
+Average: 52
+Filtered out value: 177
+Filtered out value: 176
+Filtered out value: 176
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [0, 171, 0, 143, 0, 106, 176, 0, 0, 177]
+Average: 77
+Filtered out value: 171
+Filtered out value: 143
+Filtered out value: 176
+Filtered out value: 177
+Distance: 10
+Ultrasonic sensor triggered but PIR sensor not active
+Distances: [0, 152, 0, 97, 176, 176, 0, 109, 175, 103]
+Average: 98
+Filtered out value: 152
+Filtered out value: 176
+Filtered out value: 176
+Filtered out value: 175
+Distance: 30
+Ultrasonic sensor triggered but PIR sensor not active
+Distances: [0, 0, 0, 0, 0, 176, 178, 177, 175]
+Average: 70
+Filtered out value: 176
+Filtered out value: 178
+Filtered out value: 177
+Filtered out value: 175
+Distance: 0
+Distances: [176, 176, 176, 0, 0, 0, 0, 0, 0, 0]
+Average: 52
+Filtered out value: 176
+Filtered out value: 176
+Filtered out value: 176
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [0, 176, 0, 0, 0, 176, 0, 0, 0, 0]
+Average: 35
+Filtered out value: 176
+Filtered out value: 176
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [0, 175, 177, 0, 0, 0, 0, 0, 176]
+Average: 52
+Filtered out value: 175
+Filtered out value: 177
+Filtered out value: 176
+Distance: 0
+Distances: [0, 0, 175, 177, 175, 102, 0, 125, 176]
+Average: 93
+Filtered out value: 175
+Filtered out value: 177
+Filtered out value: 175
+Filtered out value: 176
+Distance: 22
+Ultrasonic sensor triggered but PIR sensor not active
+Distances: [0, 0, 0, 0, 176, 0, 176, 176]
+Average: 52
+Filtered out value: 176
+Filtered out value: 176
+Filtered out value: 176
+Distance: 0
+Distances: [176, 176, 0, 127, 177, 172, 176, 136, 0]
+Average: 114
+Filtered out value: 176
+Filtered out value: 176
+Filtered out value: 177
+Filtered out value: 172
+Filtered out value: 176
+Distance: 26
+Ultrasonic sensor triggered but PIR sensor not active
+Distances: [93, 176, 176, 176, 176, 0, 0, 0]
+Average: 79
+Filtered out value: 176
+Filtered out value: 176
+Filtered out value: 176
+Filtered out value: 176
+Distance: 9
+Distances: [176, 176, 177, 177, 0, 0, 0, 0, 0]
+Average: 70
+Filtered out value: 176
+Filtered out value: 176
+Filtered out value: 177
+Filtered out value: 177
+Distance: 0
+Distances: [0, 0, 0, 113, 176, 176, 177, 176, 178, 0]
+Average: 99
+Filtered out value: 176
+Filtered out value: 176
+Filtered out value: 177
+Filtered out value: 176
+Filtered out value: 178
+Distance: 11
+Ultrasonic sensor triggered but PIR sensor not active
+Distances: [176, 0, 176, 0, 0, 0, 0, 0]
+Average: 35
+Filtered out value: 176
+Filtered out value: 176
+Distance: 0
+Distances: [0, 177, 177, 176, 177, 176, 176, 176, 175]
+Average: 141
+Distance: 141
+Distances: [0, 0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [0, 0, 177, 176, 176, 177, 177, 177, 177, 0]
+Average: 123
+Distance: 123
+Distances: [175, 177, 175, 176, 176, 176, 176, 176, 177]
+Average: 158
+Distance: 158
+Distances: [6, 176, 0, 177, 177, 176, 177, 176, 176]
+Average: 124
+Distance: 124
+Distances: [177, 176, 93, 0, 111, 0, 0]
+Average: 55
+Filtered out value: 177
+Filtered out value: 176
+Filtered out value: 93
+Filtered out value: 111
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [0, 0, 0, 177, 177, 0, 0, 0, 0, 0]
+Average: 35
+Filtered out value: 177
+Filtered out value: 177
+Distance: 0
+Distances: [0, 0, 0, 176, 0, 0, 129, 0, 176, 176]
+Average: 65
+Filtered out value: 176
+Filtered out value: 129
+Filtered out value: 176
+Filtered out value: 176
+Distance: 0
+Distances: [176, 142, 176, 177, 176, 176, 0, 0, 0, 0]
+Average: 102
+Filtered out value: 176
+Filtered out value: 176
+Filtered out value: 177
+Filtered out value: 176
+Filtered out value: 176
+Distance: 14
+Ultrasonic sensor triggered but PIR sensor not active
+Distances: [0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [94, 0, 92, 176, 95, 175, 177, 0, 176, 177]
+Average: 116
+Filtered out value: 176
+Filtered out value: 175
+Filtered out value: 177
+Filtered out value: 176
+Filtered out value: 177
+Distance: 28
+Ultrasonic sensor triggered but PIR sensor not active
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Can't connect to device!
+Distances: [0, 177, 176, 178, 177, 0, 0, 0, 0]
+Average: 70
+Filtered out value: 177
+Filtered out value: 176
+Filtered out value: 178
+Filtered out value: 177
+Distance: 0
+Distances: [0, 176, 176, 0, 0, 0, 0, 0, 0, 0]
+Average: 35
+Filtered out value: 176
+Filtered out value: 176
+Distance: 0
+Distances: [176, 0, 0, 0, 172, 177, 177, 176, 0]
+Average: 87
+Filtered out value: 176
+Filtered out value: 172
+Filtered out value: 177
+Filtered out value: 177
+Filtered out value: 176
+Distance: 0
+Can't connect to device!
+Distances: [0, 178, 0, 0, 0, 0, 0, 0, 0, 177]
+Average: 35
+Filtered out value: 178
+Filtered out value: 177
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [0, 0, 0, 176, 0, 0, 0, 0, 0]
+Average: 17
+Filtered out value: 176
+Distance: 0
+Distances: [0, 0, 0, 176, 176, 0, 0, 0, 0]
+Average: 35
+Filtered out value: 176
+Filtered out value: 176
+Distance: 0
+Distances: [176, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 17
+Filtered out value: 176
+Distance: 0
+Distances: [176, 177, 176, 176, 176, 177, 0, 176, 0, 0]
+Average: 123
+Distance: 123
+Distances: [0, 0, 0, 0, 0, 176, 177, 0, 0, 0]
+Average: 35
+Filtered out value: 176
+Filtered out value: 177
+Distance: 0
+Distances: [0, 175, 176, 176, 177, 177, 176, 0]
+Average: 105
+Filtered out value: 175
+Filtered out value: 176
+Filtered out value: 176
+Filtered out value: 177
+Filtered out value: 177
+Filtered out value: 176
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 176]
+Average: 17
+Filtered out value: 176
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 175, 177]
+Average: 35
+Filtered out value: 175
+Filtered out value: 177
+Distance: 0
+Distances: [177, 177, 177, 177, 177, 177, 177, 178, 176, 0]
+Average: 159
+Distance: 159
+Distances: [176, 177, 177, 177, 0, 0, 0, 0, 0, 0]
+Average: 70
+Filtered out value: 176
+Filtered out value: 177
+Filtered out value: 177
+Filtered out value: 177
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [0, 85, 0, 177, 0, 176, 112, 0, 176]
+Average: 72
+Filtered out value: 177
+Filtered out value: 176
+Filtered out value: 112
+Filtered out value: 176
+Distance: 8
+Distances: [0, 0, 175, 176, 177, 177, 177, 0]
+Average: 88
+Filtered out value: 175
+Filtered out value: 176
+Filtered out value: 177
+Filtered out value: 177
+Filtered out value: 177
+Distance: 0
+Distances: [177, 0, 0, 0, 0, 0, 0, 0]
+Average: 17
+Filtered out value: 177
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [0, 176, 177, 176, 0, 0, 0, 0, 0, 0]
+Average: 52
+Filtered out value: 176
+Filtered out value: 177
+Filtered out value: 176
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 0, 176]
+Average: 17
+Filtered out value: 176
+Distance: 0
+Distances: [0, 176, 0, 0, 176, 176, 176, 177, 0]
+Average: 88
+Filtered out value: 176
+Filtered out value: 176
+Filtered out value: 176
+Filtered out value: 176
+Filtered out value: 177
+Distance: 0
+Distances: [0, 0, 0, 0, 177, 0, 0, 176, 177, 176]
+Average: 70
+Filtered out value: 177
+Filtered out value: 176
+Filtered out value: 177
+Filtered out value: 176
+Distance: 0
+Distances: [0, 0, 0, 177, 0, 177, 176, 0, 0]
+Average: 53
+Filtered out value: 177
+Filtered out value: 177
+Filtered out value: 176
+Distance: 0
+Distances: [175, 0, 176, 177, 177, 177, 176, 162, 177, 149]
+Average: 154
+Distance: 154
+Distances: [176, 177, 177, 177, 0, 0, 0, 0, 177, 0]
+Average: 88
+Filtered out value: 176
+Filtered out value: 177
+Filtered out value: 177
+Filtered out value: 177
+Filtered out value: 177
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 177, 0, 104]
+Average: 28
+Filtered out value: 177
+Filtered out value: 104
+Distance: 0
+Distances: [0, 0, 141, 0, 0, 176, 0, 0, 0, 0]
+Average: 31
+Filtered out value: 141
+Filtered out value: 176
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 176]
+Average: 17
+Filtered out value: 176
+Distance: 0
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 0, 175]
+Average: 17
+Filtered out value: 175
+Distance: 0
+Distances: [0, 176, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 17
+Filtered out value: 176
+Distance: 0
+Distances: [0, 0, 0, 177, 176, 0, 0, 0]
+Average: 35
+Filtered out value: 177
+Filtered out value: 176
+Distance: 0
+Distances: [177, 0, 0, 0, 0, 0, 0, 0]
+Average: 17
+Filtered out value: 177
+Distance: 0
+Distances: [177, 177, 177, 176, 0, 0, 176, 177, 177, 177]
+Average: 141
+Distance: 141
+Distances: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 0
+Distance: 0
+Distances: [177, 0, 0, 0, 0, 0, 0, 0, 0]
+Average: 17
+Filtered out value: 177
+Distance: 0
+Distances: [0, 0, 177, 176, 0, 0, 0, 0, 0, 0]
+Average: 35
+Filtered out value: 177
+Filtered out value: 176
+Distance: 0
+Distances: [0, 0, 176, 0, 177, 0, 176, 0, 0, 0]
+Average: 52
+Filtered out value: 176
+Filtered out value: 177
+Filtered out value: 176
+Distance: 0
+Taking 10 values and filtering
+Path changed from None to /media/usb0/audio.mp3
+Distances: [175, 176, 176, 176, 175, 176, 175, 175, 175, 175]
+Average: 175
+Distance: 175
+Distances: [176, 175, 176, 175, 176, 175, 175, 175, 175, 176]
+Average: 175
+Distance: 175
+Taking 10 values and filtering
+Path changed from None to /media/usb0/audio.mp3
+Can't connect to device or communication error occured!
+Taking 10 values and filtering
+Path changed from None to /media/usb0/audio.mp3
+Distances: [176, 175, 175, 176, 175, 104, 176, 176, 176, 175]
+Average: 168
+Distance: 168
+Distances: [175, 176, 175, 176, 175, 176, 176, 175, 175, 176]
+Average: 175
+Distance: 175
+Distances: [176, 176, 175, 176, 176, 175, 176, 176, 176, 177]
+Average: 175
+Distance: 175
+Distances: [176, 177, 175, 176, 175, 176, 175, 176, 176, 176]
+Average: 175
+Distance: 175
+Distances: [176, 175, 176, 175, 176, 176, 175, 176, 176, 176]
+Average: 175
+Distance: 175
+Distances: [176, 175, 176, 176, 177, 175, 176, 175, 176, 176]
+Average: 175
+Distance: 175
+Distances: [177, 176, 176, 176, 177, 175, 176, 176, 176, 176]
+Average: 176
+Distance: 176
+Sensor triggered at 2016-05-18 17:40:35.156076
+Distances: [175, 176, 176, 63, 0, 0, 0, 0, 0, 0]
+Average: 59
+Filtered out value: 175
+Filtered out value: 176
+Filtered out value: 176
+Distance: 6
+Taking 10 values and filtering
+Path changed from None to /media/usb0/audio.mp3
+Distances: [175, 105, 175, 68, 176, 175, 176, 175, 175]
+Average: 140
+Distance: 140
+Distances: [175, 175, 176, 175, 175, 175, 176, 100, 176, 95]
+Average: 159
+Distance: 159
+Sensor triggered at 2016-05-18 17:51:51.586503
+Distances: [175, 176, 175, 175, 75, 176, 113, 71, 41, 35]
+Average: 121
+Distance: 121
+Distances: [2, 2, 2, 2, 3, 2, 3, 2, 5, 2]
+Average: 2
+Distance: 0
+Sensor triggered at 2016-05-18 17:52:03.099181
+Distances: [4, 5, 5, 7, 0, 0, 0, 4, 0, 11]
+Average: 3
+Distance: 0
+Sensor triggered at 2016-05-18 17:52:12.108999
+Distances: [42, 176, 41, 40, 177, 175, 176, 175, 37, 37]
+Average: 107
+Filtered out value: 176
+Filtered out value: 177
+Filtered out value: 175
+Filtered out value: 176
+Filtered out value: 175
+Distance: 19
+Ultrasonic sensor triggered but PIR sensor not active
+Sensor triggered at 2016-05-18 17:52:20.117900
+Distances: [175, 42, 38, 40, 3, 3, 4, 0, 0, 8]
+Average: 31
+Filtered out value: 175
+Distance: 13
+Starting to play music...
+Sensor triggered at 2016-05-18 17:52:25.123457
+Distances: [60, 175, 176, 87, 170, 176, 176, 176, 176, 176]
+Average: 154
+Distance: 154
+Giving 10 seconds to come back...
+Sensor triggered at 2016-05-18 17:52:41.641936
+Distances: [175, 175, 175, 175, 175, 175, 176, 176, 175, 175]
+Average: 175
+Distance: 175
+10 seconds passed!
+Fading out and stopping music playback.
+Sensor triggered at 2016-05-18 17:52:46.647675
+Distances: [176, 176, 60, 99, 159, 175, 175, 175, 175, 175]
+Average: 154
+Distance: 154
+Distances: [176, 176, 177, 176, 176, 175, 175, 176, 177, 175]
+Average: 175
+Distance: 175
+Distances: [175, 175, 175, 176, 175, 176, 175, 175, 175, 175]
+Average: 175
+Distance: 175
+Distances: [175, 176, 176, 175, 175, 176, 176, 176, 176, 176]
+Average: 175
+Distance: 175
+Distances: [175, 177, 176, 176, 176, 176, 176, 176, 176, 176]
+Average: 176
+Distance: 176
+Distances: [175, 175, 175, 177, 176, 175, 175, 175, 175, 176]
+Average: 175
+Distance: 175
+Distances: [175, 176, 175, 175, 175, 175, 175, 82, 176, 175]
+Average: 165
+Distance: 165
+Distances: [133, 175, 176, 124, 176, 175, 175, 175, 176, 175]
+Average: 166
+Distance: 166
+Distances: [175, 176, 89, 176, 176, 174, 177, 176, 175, 175]
+Average: 166
+Distance: 166
+Distances: [125, 127, 176, 175, 176, 176, 176, 176, 175, 176]
+Average: 165
+Distance: 165
+Distances: [176, 175, 176, 175, 175, 175, 175, 175, 175, 175]
+Average: 175
+Distance: 175
+Distances: [175, 175, 176, 175, 176, 176, 175, 176, 175, 176]
+Average: 175
+Distance: 175
+Distances: [175, 176, 175, 176, 176, 175, 175, 177, 175, 177]
+Average: 175
+Distance: 175
+Distances: [176, 177, 176, 175, 175, 175, 175, 176, 175, 175]
+Average: 175
+Distance: 175
+Distances: [175, 175, 176, 175, 176, 176, 176, 175, 176, 175]
+Average: 175
+Distance: 175
+Distances: [175, 176, 175, 111, 176, 175, 176, 175, 175, 175]
+Average: 168
+Distance: 168
+Distances: [176, 176, 176, 176, 176, 176, 176, 176, 175, 176]
+Average: 175
+Distance: 175
+Distances: [176, 176, 134, 176, 176, 176, 176, 176, 176, 176]
+Average: 171
+Distance: 171
+Distances: [176, 175, 176, 176, 176, 175, 176, 175, 104, 176]
+Average: 168
+Distance: 168
+Distances: [176, 176, 176, 176, 175, 176, 176, 139, 176, 176]
+Average: 172
+Distance: 172
+Distances: [176, 175, 176, 176, 175, 175, 177, 176, 176, 176]
+Average: 175
+Distance: 175
