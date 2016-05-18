@@ -1,12 +1,7 @@
-Taking 10 values and filtering
-Path changed from None to /media/usb1/audio.mp3
-Distances: [197, 0, 168, 177, 93, 0, 123, 152]
-Average: 91
-Filtered out value: 197
-Filtered out value: 168
-Filtered out value: 177
-Filtered out value: 152
-Distance: 21
+#These are logs from the last working states. Each program run starts with "Taking n values and filtering".
+#Output is mainly about filtering through erroneous values from distance sensor because that was the most problematic part and therefore the one that'd need insight into.
+#"Sensor triggered" entries are about the PIR sensor - playback doesn't start without it triggered.
+
 Taking 10 values and filtering
 Path changed from None to /media/usb1/audio.mp3
 Distances: [0, 0, 0, 0, 0, 175, 175, 176, 176, 175]
